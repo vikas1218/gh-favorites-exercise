@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 Chocolate Ice Cream
 Soft Pretzels
 Celery
+=======
+Krish
+Harry Potter
+Fast and Furious 
+>>>>>>> movies
